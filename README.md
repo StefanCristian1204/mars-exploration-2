@@ -59,16 +59,30 @@ A new strategy is implemented to interact with aliens:
 2. Upon direct contact, communication takes place. The responsible analyzer randomly selects an outcome: "NOT
 
 
-  ![idea64_zYWCWbwn0Y](https://github.com/StefanCristian1204/mars-exploration-2/assets/97633357/afad6277-ed11-4db8-8821-e028b101a755)
-![LogicChart](https://github.com/StefanCristian1204/mars-exploration-2/assets/97633357/6d2807ab-33e8-4a3a-bb15-791316d03a68)
-![idea64_0cA3ox8bKt](https://github.com/StefanCristian1204/mars-exploration-2/assets/97633357/615433b6-89e5-4246-bf4c-f9ac558dcb36)
-![idea64_8TM9CgzdR6](https://github.com/StefanCristian1204/mars-exploration-2/assets/97633357/a76c4a92-df8f-4754-bfcb-49950a463e19)
-![idea64_bUbDnPSn6n](https://github.com/StefanCristian1204/mars-exploration-2/assets/97633357/15a6464d-9929-4498-a345-b5c55e8a1030)
-![idea64_c9nkvJQ6h3](https://github.com/StefanCristian1204/mars-exploration-2/assets/97633357/40469484-085b-4a8a-91b6-2d5161c188b6)
-![idea64_H7S2VWdXoS](https://github.com/StefanCristian1204/mars-exploration-2/assets/97633357/94e3aba9-5a47-4b97-907b-e166c75b13fc)
-![idea64_hwfINfXoai](https://github.com/StefanCristian1204/mars-exploration-2/assets/97633357/a4d61570-b6fe-4761-bf5f-87e7f2a7454a)
-![idea64_iBnhVbJA34](https://github.com/StefanCristian1204/mars-exploration-2/assets/97633357/40c3bae0-cf84-4708-884c-ecb629601bb6)
-![idea64_MFa90Z6m2g](https://github.com/StefanCristian1204/mars-exploration-2/assets/97633357/c9c84dcd-970e-45b6-bcc4-c4b073ff3465)
-![idea64_yXNpVQYMAl](https://github.com/StefanCristian1204/mars-exploration-2/assets/97633357/fe4acb37-71ed-471f-a7a9-3c6eaaa1fef9)
+# Click To Start Simulation
+![clickToStartSimualtions](https://github.com/StefanCristian1204/mars-exploration-2/assets/97633357/77d93281-c548-4ba4-8f10-da291959460c)
+# Rover Coordinate Landing Positions
+![coordinate_landingPos](https://github.com/StefanCristian1204/mars-exploration-2/assets/97633357/e257a857-dbc7-457c-950b-6068949b7ab3)
+# End Simulation: number of minerals
+![endHowManyMinerals](https://github.com/StefanCristian1204/mars-exploration-2/assets/97633357/bcc48ab4-19d7-43fe-9273-9357d0df7606)
+# End Simulation: number of water pockets
+![endSimulationsWterPokets](https://github.com/StefanCristian1204/mars-exploration-2/assets/97633357/3b69f06e-4f2a-4416-881e-1d36af4b588e)
+# Initial Map Display
+![initialMap](https://github.com/StefanCristian1204/mars-exploration-2/assets/97633357/76b5f71d-a513-44cc-9ced-067e67e205b0)
+# Outcome Rover Simulation TIMEOUT
+![outcomeTimeout](https://github.com/StefanCristian1204/mars-exploration-2/assets/97633357/b64616b1-7859-4cc6-bfba-d2f8dc902f7a)
+# Set Rover Sight Range
+![roverSightRange](https://github.com/StefanCristian1204/mars-exploration-2/assets/97633357/ae475259-19dc-4489-9153-eb9bc6e58ab7)
+# Configure number of simulation steps until TIMEOUT
+![stepsSimulations](https://github.com/StefanCristian1204/mars-exploration-2/assets/97633357/f1a17fdb-e8b3-4e47-8e76-f74a9e25170e)
+
+
+
+
+
+
+
+
+
 
   
